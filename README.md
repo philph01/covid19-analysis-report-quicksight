@@ -65,7 +65,14 @@ This project includes various visualizations to explore COVID-19 data trends:
 - **Average Total Cases by Country**: A stacked bar chart displaying the deaths and recoveries for each country.
 
 Here is an example of one of the dashboards created:
-![COVID-19 Dashboard](link_to_screenshot_or_gif)
+
+![COVID-19 Dashboard](/screenshots/screenshot02.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to **Our World In Data** for providing the dataset.
+- Thanks to **AWS** for offering tools like QuickSight and S3 to make this analysis possible.
+  
