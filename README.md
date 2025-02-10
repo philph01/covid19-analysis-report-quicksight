@@ -8,8 +8,10 @@ The analysis includes:
 - Cases per Region
 - Average Cases per Country
 
+![Alt text](/screenshots/screenshot01.png?raw=true "Screenshot of Report")
+
 You can view the full analysis and visualizations in the **PDF format** here:
-[Download COVID-19 Visuals Report (PDF)](docs/covid19_visuals_report.pdf)
+[Download COVID-19 Visuals Report (PDF)](COVID_Cases_Analysis_2025.pdf)
 
 ## Dataset
 The dataset used in this project is sourced from **Our World In Data**, which provides daily updates on COVID-19 statistics across the globe. The dataset includes the following key data points:
